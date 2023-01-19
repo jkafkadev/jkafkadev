@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I'm currently working on finishing up my last semester of undergrad (CS @ U of MN)
+- 🌱 I'm currently learning how to develop Web2.0, Robotics, and Principles of testing
+- 💬 Ask me about my discord advertisement bot!
+- 📫 ow to reach me: 
+  - LinkedIn: https://www.linkedin.com/in/jarod-kafka-54b04418b/
+  - Email: kafka050@umn.edu
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun Fact: I love nature, hiking, fishing and exploring outside!
+
 <!--
 **kafka050/kafka050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
