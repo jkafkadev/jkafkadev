@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on finishing up my last semester of undergrad (CS @ U of MN)
 - 🌱 I'm currently learning how to develop Web2.0, Robotics, and Principles of testing
 - 💬 Ask me about my discord advertisement bot!
-- 📫 ow to reach me: 
+- 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/jarod-kafka-54b04418b/
   - Email: kafka050@umn.edu
 - 😄 Pronouns: He/Him/His
