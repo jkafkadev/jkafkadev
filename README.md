@@ -10,6 +10,7 @@
 - ⚡ Fun Fact: I love nature, hiking, fishing and exploring outside!
 
 # Discord Advertisement Bot
+- https://github.com/kafka050/adBot
 - Developed using Node.js
 - Uses Discord.js Library
 - Has moderation capabilities to inspect and determin actions with each message sent in server
