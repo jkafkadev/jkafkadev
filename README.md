@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on finishing up my last semester of undergrad (CS @ U of MN)
-- 🌱 I'm currently learning how to develop Web2.0, Robotics, and Principles of testing
+- 🔭 I'm currently working on FactoryTwin at Advisory Aerospace
+- 🌱 I'm currently learning F# and Swift
 - 💬 Ask me about my discord advertisement bot!
 - 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/jarod-kafka-54b04418b/
-  - Email: kafka050@umn.edu
+  - Email: jkafkadev@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun Fact: I love nature, hiking, fishing and exploring outside!
+- ⚡ Fun Fact: I love nature, rock climbing, hiking, fishing and exploring outside!
 
 # Discord Advertisement Bot
 - https://github.com/kafka050/adBot
