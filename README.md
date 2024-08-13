@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on FactoryTwin at Advisory Aerospace
-- 🌱 I'm currently learning F# and Swift
+- 🔭 I'm currently working on Judgement Day, a dimension traversal Minecraft mod
+- 🌱 I'm currently learning NeoForge for Java
 - 💬 Ask me about my discord advertisement bot!
 - 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/jarod-kafka-54b04418b/
@@ -10,7 +10,7 @@
 - ⚡ Fun Fact: I love nature, rock climbing, hiking, fishing and exploring outside!
 
 # Discord Advertisement Bot
-- https://github.com/kafka050/adBot
+- https://github.com/jkafkadev/adBot
 - Developed using Node.js
 - Uses Discord.js Library
 - Has moderation capabilities to inspect and determine actions with each message sent in server
